@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuthenDemo
+build_property.ProjectDir = C:\AuthenDemo\server\AuthenDemo\
